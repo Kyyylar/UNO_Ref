@@ -1,0 +1,2 @@
+- A simple console app where you can play UNO card game.
+- Made in C#.
